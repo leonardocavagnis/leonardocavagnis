@@ -11,8 +11,8 @@ Skilled communicator with a passion for technical content writing.
 ### Connect with me 📫
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/leonardocavagnis/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/leocavagnis) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://leonardocavagnis.medium.com)
+[<img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://x.com/leocavagnis) 
 
 <!--
 **leonardocavagnis/leonardocavagnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
